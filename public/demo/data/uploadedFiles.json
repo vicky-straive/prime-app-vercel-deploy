@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "code": "f230fh0g3",
+            "name": "Video Transition Effects",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36?auto=format&fit=crop&w=318",
+                "preview": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36?auto=format&fit=crop&w=318&dpr=2 2x",
+                "size": "2.5 MB",
+                "type": "JPEG"
+            }
+        },
+        {
+            "id": "1001",
+            "code": "f030fh0g3",
+            "name": "Beautiful Background",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "video": {
+                "url": "https://assets.codepen.io/6093409/river.mp4",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "video/mp4",
+                "duration": "3:30 min"
+            }
+        },
+        {
+            "id": "1002",
+            "code": "f23hbnh0g3",
+            "name": "AI Audio",
+            "description": "Product Description",
+            "date": "2023-05-15",
+            "video": {
+                "url": "https://assets.codepen.io/6093409/river.mp4",
+                "preview": "https://assets.codepen.io/6093409/river.jpg",
+                "size": "2.5 MB",
+                "type": "MP4",
+                "duration": "3:30 min"
+            }
+        }
+    ]
+}
