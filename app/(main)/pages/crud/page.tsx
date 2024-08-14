@@ -28,7 +28,8 @@ const Crud = () => {
         price: 0,
         quantity: 0,
         rating: 0,
-        inventoryStatus: 'INSTOCK'
+        inventoryStatus: 'INSTOCK',
+        date: new Date().getTime()
     };
 
     const [products, setProducts] = useState(null);
